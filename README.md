@@ -1,6 +1,6 @@
 # cookingSytem
 
-This is a Cooking System that is being developed and maintained by Cookie_DevX. Feel free to commit changes here. 
+This is a Cooking System that is being developed and maintained by Cookie_DevX. Feel free to commit changes here. This entire repo is explained in comments in the code! 
 
 Their will be a video and this system shall be completed soon! 
 
